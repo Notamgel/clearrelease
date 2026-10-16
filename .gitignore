@@ -1,0 +1,8 @@
+node_modules/
+.env
+contracts/evm/artifacts/
+contracts/evm/cache/
+contracts/evm/typechain-types/
+*.wasm
+.cre_build_tmp.js
+dist/

@@ -1,0 +1,18 @@
+# ==========================================================================
+# CRE PROJECT SETTINGS
+# The escrow lives on Ethereum Sepolia; the Chainalysis Sanctions Oracle is read
+# on Ethereum mainnet (read-only). Public RPCs are fine for simulation.
+# ==========================================================================
+staging-settings:
+  rpcs:
+    - chain-name: ethereum-testnet-sepolia
+      url: https://ethereum-sepolia-rpc.publicnode.com
+    - chain-name: ethereum-mainnet
+      url: https://ethereum-rpc.publicnode.com
+
+production-settings:
+  rpcs:
+    - chain-name: ethereum-testnet-sepolia
+      url: https://ethereum-sepolia-rpc.publicnode.com
+    - chain-name: ethereum-mainnet
+      url: https://ethereum-rpc.publicnode.com
