@@ -25,7 +25,7 @@ continuously. It fails closed and records an auditable evidence hash for every d
 - Escrow #1 opened → [`0x9e99c731…`](https://sepolia.etherscan.io/tx/0x9e99c731858f723a13c603e4f2b57fd9aedd09798d8c11bcfdf97cf27d6efaad); onboarding screening report (CLEAR) → [`0xaed5c1f1…`](https://sepolia.etherscan.io/tx/0xaed5c1f1ee7a635ec0fcc0cd70e197c0706b0a16c2b0c6f5777f8a3c52dcd1de)
 - Escrow #1 release approved → [`0x41a83388…`](https://sepolia.etherscan.io/tx/0x41a83388f22f7b1053167bcd028a86b88255011e0661a883a28221fbef400684); release screening report (CLEAR → **Released**) → [`0x7061ff59…`](https://sepolia.etherscan.io/tx/0x7061ff59a25c79d19ee4d99a652869271a24cea6e8d931855c1bf7f50bb320bd)
 - Escrow #2 opened with an OFAC-listed payee → [`0x31106433…`](https://sepolia.etherscan.io/tx/0x31106433464c056678a6f00c8bae85dfe074fe1ca489d0ce5b5406b8ee66b45f); screening report (HIT via the OFAC list while the Chainalysis oracle returned false → **Frozen**) → [`0xb95d1c65…`](https://sepolia.etherscan.io/tx/0xb95d1c6508133627908e5754c0d692094b48e3dbb9a4525008f5166ec8898148)
-**Contact:** Angel Medina, notamgel@gmail.com, X: TODO @handle
+**Contact:** Angel Medina, notamgel@gmail.com
 
 ---
 

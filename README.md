@@ -1,5 +1,7 @@
 # ClearRelease: sanctions-gated legal escrow on Chainlink CRE
 
+**Demo video:** https://youtu.be/ADreAkAUOoA · **Live contract (Sepolia):** [0x2FFE6Ec3…dc54f50](https://sepolia.etherscan.io/address/0x2FFE6Ec34D1470198ba64c1A88F5FBef0dc54f50)
+
 **ClearRelease is an escrow for legal agreements where funds only move after sanctions screening.**
 A Chainlink Runtime Environment (CRE) workflow screens both parties against two independent
 sources. It screens them at signature, at the moment of payment, and periodically while the
