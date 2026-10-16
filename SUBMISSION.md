@@ -19,7 +19,7 @@ continuously. It fails closed and records an auditable evidence hash for every d
 **Category / tags:** LegalTech, RegTech, Compliance, Chainlink, CRE, Escrow, Sanctions, OFAC
 
 **GitHub:** https://github.com/Notamgel/clearrelease
-**Demo video:** TODO: YouTube (unlisted) or Loom link, 2–3 min (see VIDEO-SCRIPT.md)
+**Demo video:** https://youtu.be/ADreAkAUOoA
 **Contract (Sepolia):** [`0x2FFE6Ec34D1470198ba64c1A88F5FBef0dc54f50`](https://sepolia.etherscan.io/address/0x2FFE6Ec34D1470198ba64c1A88F5FBef0dc54f50)
 **Example txs (Sepolia):**
 - Escrow #1 opened → [`0x9e99c731…`](https://sepolia.etherscan.io/tx/0x9e99c731858f723a13c603e4f2b57fd9aedd09798d8c11bcfdf97cf27d6efaad); onboarding screening report (CLEAR) → [`0xaed5c1f1…`](https://sepolia.etherscan.io/tx/0xaed5c1f1ee7a635ec0fcc0cd70e197c0706b0a16c2b0c6f5777f8a3c52dcd1de)
